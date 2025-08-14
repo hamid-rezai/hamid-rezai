@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-query/react-query-original.svg" height="40" alt="react query logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactQuery/reactQuery-original.svg" height="40" alt="react query logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux.svg" height="40" alt="redux logo"  />
 </div>
