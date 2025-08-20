@@ -30,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactrouter/reactrouter-original.svg" height="40" alt="reactrouter logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"  />
 </div>
 
 ###
