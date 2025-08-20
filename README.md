@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactQuery/reactQuery-original.svg" height="40" alt="react query logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux.svg" height="40" alt="redux logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
 ###
