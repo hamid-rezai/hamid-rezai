@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" height="40" alt="tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactQuery/reactQuery-original.svg" height="40" alt="react query logo"  />
   <img width="12" />
